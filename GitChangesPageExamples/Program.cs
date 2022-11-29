@@ -13,7 +13,7 @@ namespace GitChangesPageExamples
 
             // Edits make to this file will be made in:
             // ChangesGoHere()
-            // Seen Below...
+            // Seen Below.....
         }
 
         static void ChangesGoHere()
